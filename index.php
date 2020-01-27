@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8">
 <title>Untitled Document</title>
-	<script src="jquery/dist/jquery.js"></script>
+	<script src="jquery.js"></script>
 	
-	<script src="js/bookstore.js"></script>
+	<script src="bookstore.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="style.css">
 	<style>
 	    .product img
 		{
